@@ -15,8 +15,27 @@ gem 'lita-salesforce'
 
 ## Configuration
 
-TODO: Describe any configuration attributes the plugin exposes.
+Set ENV variables for [restforce](https://github.com/ejholmes/restforce).
+
+```
+export SALESFORCE_USERNAME="username"
+export SALESFORCE_PASSWORD="password"
+export SALESFORCE_SECURITY_TOKEN="security token"
+export SALESFORCE_CLIENT_ID="client id"
+export SALESFORCE_CLIENT_SECRET="client secret"
+```
 
 ## Usage
 
-TODO: Describe the plugin's features and how to use them.
+```
+Lita > salesforce contract ...
+ContractNumber: ...
+Status: ...
+StartDate: ...
+EndDate: ...
+Description:
+SpecialTerms:
+Account.Id: ...
+Account.Name: ...
+Owner.Name: ...
+```
