@@ -10,7 +10,7 @@ TODO: Add a description of the plugin.
 Add lita-salesforce to your Lita instance's Gemfile:
 
 ``` ruby
-gem "lita-salesforce"
+gem 'lita-salesforce'
 ```
 
 ## Configuration
