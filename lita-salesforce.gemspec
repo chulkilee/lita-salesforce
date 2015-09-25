@@ -2,11 +2,11 @@ Gem::Specification.new do |spec|
   spec.name          = 'lita-salesforce'
   spec.version       = '0.1.0'
   spec.authors       = ['Chulki Lee']
-  spec.email         = ['TODO: Write your email address']
-  spec.description   = 'TODO: Add a description'
-  spec.summary       = 'TODO: Add a summary'
-  spec.homepage      = 'TODO: Add a homepage'
-  spec.license       = 'TODO: Add a license'
+  spec.email         = ['chulki.lee@gmail.com']
+  spec.description   = 'a lita handler that talks to Salesforce'
+  spec.summary       = 'a lita handler that talks to Salesforce'
+  spec.homepage      = 'http://github.com/chulkilee/lita-salesforce'
+  spec.license       = 'MIT'
   spec.metadata      = { 'lita_plugin_type' => 'handler' }
 
   spec.files         = `git ls-files`.split($INPUT_RECORD_SEPARATOR)
