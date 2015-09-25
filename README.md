@@ -1,7 +1,7 @@
 # lita-salesforce
 
-[![Build Status](https://travis-ci.org/chulkilee/lita-salesforce.png?branch=master)](https://travis-ci.org/chulkilee/lita-salesforce)
-[![Coverage Status](https://coveralls.io/repos/chulkilee/lita-salesforce/badge.png)](https://coveralls.io/r/chulkilee/lita-salesforce)
+[![Build Status](https://travis-ci.org/chulkilee/lita-salesforce.svg?branch=master)](https://travis-ci.org/chulkilee/lita-salesforce)
+[![Coverage Status](https://coveralls.io/repos/chulkilee/lita-salesforce/badge.svg?branch=master&service=github)](https://coveralls.io/github/chulkilee/lita-salesforce?branch=master)
 
 a [lita](https://www.lita.io/) handler that talks to [Salesforce](https://www.salesforce.com/)
 
